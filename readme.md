@@ -24,7 +24,7 @@ A **Growth Mindset** means:
 ## Deployment
 The web app is deployed online for easy access. You can visit the live version at:
 
-👉 **[Growth Mindset Web App]((https://growth-mindset-challenge-cep9ebz5v8aynhgfdnntsx.streamlit.app/))**
+👉 **[Growth Mindset Web App](https://growth-mindset-challenge-cep9ebz5v8aynhgfdnntsx.streamlit.app/)**
 
 
 ## Submission Instructions
